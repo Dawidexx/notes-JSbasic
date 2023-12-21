@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podstawy/Zmienne i okna dialogowe.md",
+                "file": "Podstawy/instrukcje warunkowe.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podstawy/Zmienne i okna dialogowe.md",
+                "file": "Podstawy/instrukcje warunkowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podstawy/Zmienne i okna dialogowe.md",
+                "file": "Podstawy/instrukcje warunkowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podstawy/Zmienne i okna dialogowe.md"
+                "file": "Podstawy/instrukcje warunkowe.md"
               }
             }
           }
@@ -160,12 +160,14 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "0059df896c54140e",
+  "active": "5f0c2e4dc384f514",
   "lastOpenFiles": [
-    "Pasted image 20231221092130.png",
-    "Pasted image 20231221090600.png",
+    "Podstawy/Zmienne/Zmienne i okna dialogowe.md",
+    "Podstawy/instrukcje warunkowe.md",
     "Podstawy/Składnia, umieszczanie JS.md",
-    "Podstawy/Zmienne i okna dialogowe.md",
+    "Podstawy/Zmienne",
+    "Podstawy/Zmienne/Pasted image 20231221092130.png",
+    "Podstawy/Zmienne/Pasted image 20231221090600.png",
     "Podstawy"
   ]
 }
