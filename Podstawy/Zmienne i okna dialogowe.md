@@ -36,3 +36,43 @@ console.log("JS jest prosty;)");
  funckja(); // uruchomienie, wywołanie działania funkcji
 
 ```
+
+
+**Okna dialogowe**
+*Okno dialogowe - to okienko, które pojawia się w celu interakcji*
+Przykłady okien dialogowych:
+- alert -> window.alert() -  metoda obiektu window. *Pojawia się okno z tekstem  przycisk OK
+  .Nadaje się do tzw. debugowania kodu -> sprawdzania wartości. Nadaje się do komunikatu na stronę, ostrzeżeń itp.
+```js
+alert("Nasza strona nie obsługuje Ciasteczek!");
+```
+![[Pasted image 20231221090600.png]]
+
+ - confirm()→ W okienku pojawiają się 2 opcje, które zwracają wartość logiczną: *true* lub *false*
+ ```js
+
+if(confirm("Czy masz 18lat?")){
+
+	alert("Możesz normalnie przeglądać stronę");
+}
+else{
+alert("Niestety musisz opuścić stronę");
+window.location.replace("http://google.pl")
+}
+```
+ 
+
+- promt() → okno do wprowadzania treści, które można wykorzystać w JS.
+```js
+const markaSamochodu = prompt("Podaj swoją markę samochodu", "Opel");
+if(markaSamochodu === "Opel"){
+	window.loctation.repalce("http://google.pl")
+}
+else{
+const hello = document.quertSelector("#hello");
+hello.innerHTML = "Witaj na stronie użytkowniku "+markaSamochodu+"!!!";
+}
+
+```
+
+![[Pasted image 20231221092130.png]]
