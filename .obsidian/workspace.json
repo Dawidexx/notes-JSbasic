@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "4410ba1d22b0012b",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d423d709d14214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c1c501a419a7720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podstawy/Składnia, umieszczanie JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf6a0ba114231afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c4e5d2afc7dc15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0c2e4dc384f514",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4214d41c319b41ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a614af4c95a98c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "901b325bc1cc4ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e1d95a44e96dfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "827ed6f86fe4f200",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Podstawy/Składnia, umieszczanie JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a141271aac6c430",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Podstawy/Składnia, umieszczanie JS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5abd3f3eed5ee496",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9f9069baee8621c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Podstawy/Składnia, umieszczanie JS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "9c1c501a419a7720",
+  "lastOpenFiles": [
+    "Podstawy/Składnia, umieszczanie JS.md",
+    "Podstawy"
+  ]
+}
