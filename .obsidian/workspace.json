@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0059df896c54140e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podstawy/Zmienne i okna dialogowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podstawy/Składnia, umieszczanie JS.md",
+                "file": "Podstawy/Zmienne i okna dialogowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podstawy/Składnia, umieszczanie JS.md",
+                "file": "Podstawy/Zmienne i okna dialogowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podstawy/Składnia, umieszczanie JS.md"
+                "file": "Podstawy/Zmienne i okna dialogowe.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "9c1c501a419a7720",
+  "active": "0059df896c54140e",
   "lastOpenFiles": [
     "Podstawy/Składnia, umieszczanie JS.md",
+    "Podstawy/Zmienne i okna dialogowe.md",
     "Podstawy"
   ]
 }
